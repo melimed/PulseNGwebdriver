@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Dashboard.DashboardTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="Dashboard.DashboardTest">
+        <methods>
+          <include name="CloseDriver"/>
+          <include name="Init"/>
+          <include name="Click2"/>
+          <include name="Click1"/>
+        </methods>
+      </class> <!-- Dashboard.DashboardTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Dashboard.DashboardTest] -->

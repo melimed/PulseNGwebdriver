@@ -1,0 +1,8 @@
+16:33:06.034 [main] INFO  Dashboard.DashboardTest - threadrun
+16:45:44.735 [main] INFO  Dashboard.DashboardTest - Button1 Clicked
+16:45:47.746 [main] INFO  Dashboard.DashboardTest - threadrun
+16:52:24.951 [main] INFO  Dashboard.DashboardTest - Button1 Clicked
+16:52:27.967 [main] INFO  Dashboard.DashboardTest - threadrun
+16:53:12.172 [main] INFO  Dashboard.DashboardTest - Button1 Clicked
+16:53:15.182 [main] INFO  Dashboard.DashboardTest - threadrun
+16:55:45.270 [main] INFO  Dashboard.DashboardTest - Button1 Clicked
